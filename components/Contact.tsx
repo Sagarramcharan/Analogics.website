@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Mail, Phone, MapPin, Send } from 'lucide-react';
 
@@ -101,8 +100,8 @@ const Contact: React.FC = () => {
                 <div className="space-y-2">
                   <label className="text-sm font-semibold text-slate-700">Sector of Interest</label>
                   <select className="w-full px-5 py-4 rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all appearance-none bg-slate-50 cursor-pointer">
-                    <option>Medical Imaging</option>
-                    <option>Security & Detection</option>
+                    <option>Technical Products</option>
+                    <option>Software Solutions</option>
                     <option>Industrial Systems</option>
                     <option>Power Electronics</option>
                     <option>Other Enquiry</option>

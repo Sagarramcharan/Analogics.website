@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { 
   Zap, 
@@ -38,13 +37,13 @@ export const PROJECTS: Project[] = [
   {
     id: 'p1',
     title: 'Photon-Counting CT',
-    category: 'Healthcare',
+    category: 'Products',
     imageUrl: 'https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'p2',
     title: 'Automated Explosives Detection',
-    category: 'Security',
+    category: 'Software',
     imageUrl: 'https://images.unsplash.com/photo-1541888946425-d81bb19480c5?auto=format&fit=crop&q=80&w=800',
   },
   {
@@ -56,13 +55,13 @@ export const PROJECTS: Project[] = [
   {
     id: 'p4',
     title: 'Molecular Imaging Tools',
-    category: 'Healthcare',
+    category: 'Products',
     imageUrl: 'https://images.unsplash.com/photo-1579154235602-3c37efd5283a?auto=format&fit=crop&q=80&w=800',
   },
   {
     id: 'p5',
     title: 'Cargo Inspection Portals',
-    category: 'Security',
+    category: 'Software',
     imageUrl: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&q=80&w=800',
   },
   {
